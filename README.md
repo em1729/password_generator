@@ -1,2 +1,2 @@
 # password_generator
-Shinydashboard pass word generator app
+Shinydashboard password generator app that takes in two inputs--password length and number of passwords desired.
